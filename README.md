@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashu6march&label=Profile%20views&color=0e75b6&style=flat" alt="yashu6march" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3AQDvhSiPpMAAAAC/dog-hacker.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashu6march" alt="yashu6march" /></a> </p>
 
